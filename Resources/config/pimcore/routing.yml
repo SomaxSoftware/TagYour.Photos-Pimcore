@@ -1,0 +1,4 @@
+tag_your_photos:
+    resource: "@TagYourPhotosBundle/Controller/"
+    type:     annotation
+    prefix:   /

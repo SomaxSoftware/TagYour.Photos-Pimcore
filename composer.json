@@ -1,0 +1,19 @@
+{
+    "name": "somaxsoftware/tagyourphotos",
+    "type": "pimcore-bundle",
+    "description": "Autotagging of image assets",
+    "keywords": ["assets","tags","tagging","images","pimcore","autotagging"],
+    "homepage": "https://www.tagyour.photos",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Boris Eberlein",
+            "email": "be@somax-software.de",
+            "homepage": "http://www.somax-software.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+		"pimcore/pimcore": ">=5.4 <6.5"
+	}
+}
