@@ -15,5 +15,10 @@
     ],
     "require": {
 		"pimcore/pimcore": ">=5.4 <6.5"
-	}
+	},
+    "autoload": {
+        "psr-4": {
+            "Pimcore\\Bundle\\TagYourPhotosBundle\\": "/"
+        }
+    }
 }
