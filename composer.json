@@ -18,13 +18,13 @@
 	},
     "autoload": {
         "psr-4": {
-            "TagYourPhotosBundle\\": ""
+            "TagYourPhotos\\": ""
         }
     },
     "extra": {
         "pimcore": {
             "bundles": [
-                "TagYourPhotosBundle\\TagYourPhotosBundle"
+                "TagYourPhotos\\TagYourPhotosBundle"
             ]
         }
     }
