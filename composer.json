@@ -18,13 +18,13 @@
 	},
     "autoload": {
         "psr-4": {
-            "TagYourPhotos\\": ""
+            "SomaxSoftware\\": ""
         }
     },
     "extra": {
         "pimcore": {
             "bundles": [
-                "TagYourPhotos\\TagYourPhotosBundle"
+                "SomaxSoftware\\TagYourPhotosBundle"
             ]
         }
     }
