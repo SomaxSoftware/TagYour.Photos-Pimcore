@@ -11,7 +11,7 @@ class TagYourPhotosBundle extends AbstractPimcoreBundle
      */
     protected function getComposerPackageName()
     {
-        return 'tagyourphotos/autotagging';
+        return 'somaxsoftware/tagyourphotos';
     }
 
     public function getVersion()
