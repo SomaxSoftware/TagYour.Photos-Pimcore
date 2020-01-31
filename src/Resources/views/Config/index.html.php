@@ -1,15 +1,21 @@
+<?php
+/**
+ * TagYour.Photos
+ *
+ * This source file is available under the following license:
+ * - GNU General Public License version 3 (GPLv3)
+ * Full copyright and license information is available in
+ * LICENSE.md which is distributed with this source code.
+ *
+ *  @copyright  Copyright (c) Somax Software UG (haftungsbeschränkt)
+ */?>
+
 <html>
 <head>
     <!-- stylesheets -->
     <style type="text/css">
         @import url(/static/bootstrap/css/bootstrap.css);
-        /*@import url(/admin/misc/admin-css?_dc=7cf81c67e93e113ef855ff3643f5fda328f3f6af);*/
-        /*@import url(/bundles/pimcoreadmin/css/icons.css?_dc=7cf81c67e93e113ef855ff3643f5fda328f3f6af);*/
-        /*@import url(/bundles/pimcoreadmin/js/lib/leaflet/leaflet.css?_dc=7cf81c67e93e113ef855ff3643f5fda328f3f6af);*/
-        /*@import url(/bundles/pimcoreadmin/js/lib/leaflet.draw/leaflet.draw.css?_dc=7cf81c67e93e113ef855ff3643f5fda328f3f6af);*/
         @import url(/bundles/pimcoreadmin/js/lib/ext/classic/theme-triton/resources/theme-triton-all.css?_dc=7cf81c67e93e113ef855ff3643f5fda328f3f6af);
-        /*@import url(/bundles/pimcoreadmin/js/lib/ext/classic/theme-triton/resources/charts-all.css?_dc=7cf81c67e93e113ef855ff3643f5fda328f3f6af);*/
-        /*@import url(/bundles/pimcoreadmin/css/admin.css?_dc=7cf81c67e93e113ef855ff3643f5fda328f3f6af);*/
     </style>
     <script src="/bundles/pimcoreadmin/js/lib/ext/ext-all.js"></script>
     <script>

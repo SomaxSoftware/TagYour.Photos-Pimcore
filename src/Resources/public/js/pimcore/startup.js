@@ -1,3 +1,14 @@
+/**
+ * TagYour.Photos
+ *
+ * This source file is available under the following license:
+ * - GNU General Public License version 3 (GPLv3)
+ * Full copyright and license information is available in
+ * LICENSE.md which is distributed with this source code.
+ *
+ *  @copyright  Copyright (c) Somax Software UG (haftungsbeschränkt)
+ */
+
 pimcore.registerNS("pimcore.plugin.TagYourPhotosBundle");
 
 pimcore.plugin.TagYourPhotosBundle = Class.create(pimcore.plugin.admin, {
