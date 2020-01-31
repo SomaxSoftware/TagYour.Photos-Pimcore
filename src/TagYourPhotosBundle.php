@@ -26,7 +26,7 @@ class TagYourPhotosBundle extends AbstractPimcoreBundle
 
     public function getVersion()
     {
-        return sprintf('%s', 'v0.1.0');
+        return sprintf('%s', 'v0.1.1');
     }
 
     public function getJsPaths()
