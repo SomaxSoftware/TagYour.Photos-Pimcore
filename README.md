@@ -15,15 +15,16 @@ To use the autotagging features you have to install this bundle with composer:
 After installation you can use Pimcore extension manager to activate and configure 
 TagYourPhotosBundle.
 
-![Enable TagYour.Photos bundle in Pimcore](./docs/EnableTagYourPhotosBundle.png)
+![Enable TagYour.Photos bundle in Pimcore](docs/EnableTagYourPhotosBundle.png)
 
 ## Configure TagYourPhotosBundle
 To enable and test the autotagging feature you need an Application Key for TagYour.Photos. 
 You can register this key on [www.tagyour.photos](https://www.tagyour.photos/kostenlos-testen1/).
 
-![Configure TagYour.Photos bundle in Pimcore](./docs/ConfigureTagYourPhotosBundle.png)
+![Configure TagYour.Photos bundle in Pimcore](docs/ConfigureTagYourPhotosBundle.png)
 
 The following configuration settings are available:
+
 - **Application Key**: You can register for Application Key on our website.
 
 - **Language**
@@ -62,12 +63,12 @@ original images but with one of the pimcore thumbnail definitions.
 Autotagging will be processed directly on image upload. You can see the assigned tags in the 
 asset editor.
 
-![Created tags in Pimcore](./docs/CreatedTagsInAssetEditor.png)
+![Created tags in Pimcore](docs/CreatedTagsInAssetEditor.png)
 
 If it is necessary to tag already existing images you can use the autotagging button 
 in the right top corner of the asset editor.
 
-![Configure TagYour.Photos bundle in Pimcore](./docs/AutotaggingInAssetEditor.png)
+![Configure TagYour.Photos bundle in Pimcore](docs/AutotaggingInAssetEditor.png)
 
 ## Info
 For further information please contact us:
