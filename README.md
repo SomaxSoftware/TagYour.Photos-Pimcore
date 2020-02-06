@@ -25,7 +25,9 @@ You can register this key on [www.tagyour.photos](https://www.tagyour.photos/kos
 
 The following configuration settings are available:
 
-- **Application Key**: You can register for Application Key on our website.
+- **Application Key**:
+
+    You can register for Application Key on our website.
 
 - **Language**
 
